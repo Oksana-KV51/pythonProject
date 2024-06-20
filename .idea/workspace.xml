@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d07dc58e-38d1-4fa5-83d8-2bd1c6f0cdbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codzero/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/static/main/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/static/main/img/White_Rabbit_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/static/main/img/photo_2024-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/layoute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codzero/codzero/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/codzero/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/codzero/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/codzero/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codzero/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codzero/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,15 +26,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2i6Uyt0DiWd92vrt2J16b9it62E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,11 +44,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\DJANGO\pythonProject\codzero\main\static\main" />
+      <recent name="E:\GitHub\DJANGO\pythonProject\codzero\main\static\img" />
+      <recent name="E:\GitHub\DJANGO\pythonProject\codzero\main\static\ing" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
