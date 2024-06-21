@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d07dc58e-38d1-4fa5-83d8-2bd1c6f0cdbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/cellar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/page3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/page4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/layoute.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/layoute.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/page4.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/page4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
