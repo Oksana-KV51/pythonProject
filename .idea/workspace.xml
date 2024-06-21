@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d07dc58e-38d1-4fa5-83d8-2bd1c6f0cdbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codzero/main/static/main/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codzero/main/static/main/img/White_Rabbit_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codzero/main/static/main/img/photo_2024-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/layoute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/cellar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/main/templates/main/page4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/codzero/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/codzero/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/layoute.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/layoute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codzero/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\GitHub\DJANGO\pythonProject\codzero\main\static\main" />

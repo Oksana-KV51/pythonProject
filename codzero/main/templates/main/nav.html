@@ -1,4 +1,19 @@
-<Ul>
-    <li><a href="">Главная страница</a></Li>
-    <li><a href="">Вторая страница</a></Li>
+<!-- меню сайта-->
+
+<ul class="nav flex-column">
+    <li class="nav-item">
+        <a class="nav-link active" href="{% url 'home' %}">Главная страница</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="{% url 'page2' %}">Биография</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="{% url 'page3' %}">Алиса</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="{% url 'page4' %}">Белый кролик</a>
+    </li>
 </ul>
+
+
+
