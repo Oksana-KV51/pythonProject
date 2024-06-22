@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d07dc58e-38d1-4fa5-83d8-2bd1c6f0cdbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codzero/news/templates/news/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codzero/news/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/codzero/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/codzero/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/codzero/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/codzero/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" afterDir="false" />
-    </list>
+    <list default="true" id="d07dc58e-38d1-4fa5-83d8-2bd1c6f0cdbf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
