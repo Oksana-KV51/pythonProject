@@ -5,5 +5,5 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path('', views.home, name='news_home')
+    path('', views.home_news, name='news_home')
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
