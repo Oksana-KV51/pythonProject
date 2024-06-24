@@ -9,8 +9,8 @@ def home_news(request):
 
 def create_news(request):
     error = ""
-    if request.method == 'POSTS':
-        form = News_postForm(request)
+    if request.method == 'POST':
+        form = News_postForm(request.POST)# Сюда сохранится информация от пользователя.
         if form.is_valid():
             form.save()
             return redirect('news_home')
