@@ -1,0 +1,57 @@
+{% extends 'main/layoute.html' %}
+
+{% block title %}
+	<title>Страница для добавления новостей</title>
+{% endblock %}
+
+{% block content %}
+<h1>Страница для добавления новостей</h1>
+
+<<div>
+	<div class="container mt-5">
+        <h2>Добавить новость</h2>
+        <form method="post" class="needs-validation" novalidate>
+			{% csrf_token %}
+            <div class="form-group">
+
+                {{ form.title }}
+                <div class="invalid-feedback">
+                    Пожалуйста, введите заголовок новости.
+                </div>
+            </div>
+            <div class="form-group">
+
+                {{ form.short_description }}
+                <div class="invalid-feedback">
+                    Пожалуйста, введите краткое описание новости.
+                </div>
+            </div>
+            <div class="form-group">
+
+                {{ form.text }}
+                <div class="invalid-feedback">
+                    Пожалуйста, введите содержание новости.
+                </div>
+            </div>
+            <div class="form-group">
+
+                {{ form.pub_date }}
+                <div class="invalid-feedback">
+                    Пожалуйста, выберите дату.
+                </div>
+            </div>
+
+            <div class="form-group">
+
+                {{ form.name }}
+                <div class="invalid-feedback">
+                    Пожалуйста, введите имя пользователя.
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Добавить новость</button>
+        </form>
+        <p>{{error}}</p>
+    </div>
+</div>
+{% endblock %}
+

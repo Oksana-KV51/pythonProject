@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d07dc58e-38d1-4fa5-83d8-2bd1c6f0cdbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/codzero/news/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codzero/news/templates/news/add_new_post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/codzero/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/codzero/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/news/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/news/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/news/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/main/templates/main/nav.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codzero/news/templates/news/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/news/templates/news/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codzero/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/news/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codzero/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/news/views.py" afterDir="false" />
@@ -23,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>

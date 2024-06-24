@@ -6,15 +6,18 @@
 
 {% block content%}
 <h1>Лента новостей</h1>
-{% for new in news %}
-	<div>
-		<h3> {{ new.title }} </h3>
-		<h4> {{ new.short_description }} </h4>
-        <p> {{ new.text }} </p>
-        <h5> {{ new.pub_date }} </h5>
-        <p> {{ new.name }} </p>
-	</div>
-{% endfor %}
-
+	{% if news %}
+		{% for new in news %}
+			<div>
+				<h3> {{ new.title }} </h3>
+				<h4> {{ new.short_description }} </h4>
+        		<p> {{ new.text }} </p>
+        		<h5> {{ new.pub_date }} </h5>
+        		<p> {{ new.name }} </p>
+			</div>
+		{% endfor %}
+	{% else %}
+		<h4>Новостей ещё нет.</h4>
+	{% endif %}
 
 {% endblock %}
