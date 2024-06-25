@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d07dc58e-38d1-4fa5-83d8-2bd1c6f0cdbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/movie_project/films/templates/films/cellar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie_project/films/templates/films/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie_project/films/templates/films/layoute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie_project/films/templates/films/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie_project/films/templates/films/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie_project/films/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/news/templates/news/add_new_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/news/templates/news/add_new_post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codzero/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/codzero/news/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,16 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/GitHub/DJANGO/pythonProject/movie_project/films/templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\DJANGO\pythonProject\movie_project\films\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\DJANGO\pythonProject\movie_project\films\templates\films" />
       <recent name="E:\GitHub\DJANGO\pythonProject\codzero\main\static\main" />
       <recent name="E:\GitHub\DJANGO\pythonProject\codzero\main\static\img" />
       <recent name="E:\GitHub\DJANGO\pythonProject\codzero\main\static\ing" />
