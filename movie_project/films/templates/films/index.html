@@ -4,9 +4,29 @@
     <title>Главная страница</title>
 {% endblock %}
 
-{% block content%}
-    <h1>Главная страница</h1>
-    <p> здесь можно написать свой отзыв о просмотренном фильме</p>
+{% block content %}
+<h1>Здесь можно написать свой отзыв о просмотренном фильме</h1>
 
+<<div>
+	<div class="container mt-5">
+        <h2>Название фильма</h2>
+        <form method="post" class="needs-validation" novalidate>
+			{% csrf_token %}
+            <div class="form-group">
+                {{ form.title }}
+            </div>
+            <div class="form-group">
+                <h2>Краткое описание фильма</h2>
+                {{ form.short_description }}
+            </div>
+            <div class="form-group">
+                <h2>Ваше мнение</h2>
+                {{ form.text }}
+            </div>
+
+            <button type="submit" class="btn btn-primary">Добавить отзыв</button>
+        </form>
+        <p>{{error}}</p>
+    </div>
+</div>
 {% endblock %}
-
